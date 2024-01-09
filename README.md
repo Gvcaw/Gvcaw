@@ -11,4 +11,4 @@ Hobbies:
 - Vidya games
 - Manga and Anime
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)  
+![Visitor Count](https : //profile-counter.glitch.me/Gvcaw/count.svg)  
