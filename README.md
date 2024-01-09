@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi Im Gvcaw, aspiring Junior Cybersecurity Analyst and Enthusiast, I dont have any major projects on my belt for now but I hope to be able to start one sooner or later :/ 
 
-<!--
-**Gvcaw/Gvcaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯Currently learning/studying for:
+- CISSP
+- CompTIA+
+- Typescript. JS, C++
 
-Here are some ideas to get you started:
+Hobbies:
+- CTF and Bug Bounties
+- Movies
+- Vidya games
+- Manga and Anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
