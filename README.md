@@ -15,7 +15,5 @@ Hobbies:
 
 ```
 
-'
-Add a spotify and Activity tracker
-'
+
 
