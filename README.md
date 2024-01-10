@@ -14,3 +14,6 @@ Hobbies:
 - Manga and Anime
 
 ```
+
+##Add a spotify and Activiy tracker
+
